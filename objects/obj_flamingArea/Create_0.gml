@@ -1,1 +1,0 @@
-var base_damage = .25; 

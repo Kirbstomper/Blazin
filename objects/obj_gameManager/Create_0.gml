@@ -1,6 +1,9 @@
  heat_level = 1; // Score Multipler, Scaling Difficulty, Etc
  bombs_used = 0; // How much of the room is filled with flames
+ flame_damage = 0.01;
  
+ global.player_in_flames = false;
+ global.player_health = 100.00;
  
  global.debug = true;
 
@@ -27,4 +30,6 @@ function UseBomb(){
 }
 #endregion
 
+UseBomb();
+UseBomb();
 UseBomb();
