@@ -8,7 +8,7 @@ var _diff = angle_difference(_dir, image_angle);
 image_angle += _diff;
 
 
-if((keyboard_check(vk_left)) && canMove == true){
+if((keyboard_check(ord("A"))) && canMove == true){
     isMoving = true;
     
     if !(place_meeting(x-playerSpeed, y, obj_wall))
@@ -17,7 +17,7 @@ if((keyboard_check(vk_left)) && canMove == true){
         }
 }
 
-if((keyboard_check(vk_right))  && canMove == true){
+if((keyboard_check(ord("D")))  && canMove == true){
     isMoving = true;
     if !(place_meeting(x+playerSpeed, y, obj_wall))
         {
@@ -25,7 +25,7 @@ if((keyboard_check(vk_right))  && canMove == true){
         }
 }
 
-if((keyboard_check(vk_up)) && canMove == true){
+if((keyboard_check(ord("W"))) && canMove == true){
     isMoving = true;
     
     if !(place_meeting(x, y-playerSpeed, obj_wall))
@@ -34,10 +34,11 @@ if((keyboard_check(vk_up)) && canMove == true){
         }
 }
 
-if((keyboard_check(vk_down))  && canMove == true){
+if((keyboard_check(ord("S")))  && canMove == true){
     isMoving = true;
     if !(place_meeting(x, y+playerSpeed, obj_wall))
         {
             y += playerSpeed;
         }
 }
+
