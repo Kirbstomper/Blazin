@@ -1,8 +1,9 @@
-draw_text(100, 100,score)
+draw_text(100, 100, score)
 
 
 
 
 if(global.debug){
-	draw_text(0, 100, heat_level)
+	draw_text(0, 100, "Heat:" +string(heat_level))
+	draw_text(0, 150, "Bombs Used: " + string(bombs_used))
 }
