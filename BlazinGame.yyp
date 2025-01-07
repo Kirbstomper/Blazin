@@ -36,18 +36,12 @@
   "resources":[
     {"id":{"name":"obj_flamingArea","path":"objects/obj_flamingArea/obj_flamingArea.yy",},},
     {"id":{"name":"obj_gameManager","path":"objects/obj_gameManager/obj_gameManager.yy",},},
-<<<<<<< HEAD
     {"id":{"name":"obj_player_bullet","path":"objects/obj_player_bullet/obj_player_bullet.yy",},},
-=======
->>>>>>> c34250cedda5b1d8326867e497a7d4179ac74d82
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_flaming","path":"sprites/spr_flaming/spr_flaming.yy",},},
-<<<<<<< HEAD
     {"id":{"name":"spr_player_bullet","path":"sprites/spr_player_bullet/spr_player_bullet.yy",},},
-=======
->>>>>>> c34250cedda5b1d8326867e497a7d4179ac74d82
     {"id":{"name":"spr_player_mask","path":"sprites/spr_player_mask/spr_player_mask.yy",},},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},},
