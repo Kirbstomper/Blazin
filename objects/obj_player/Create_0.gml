@@ -4,3 +4,4 @@ playerSpeed = 5;
 isMoving = false;
 canMove = true;
 canShoot = true;
+shoot_speed = 5;
