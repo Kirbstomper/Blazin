@@ -36,6 +36,8 @@
   "resources":[
     {"id":{"name":"obj_base_enemy","path":"objects/obj_base_enemy/obj_base_enemy.yy",},},
     {"id":{"name":"obj_basicbitch_enemy","path":"objects/obj_basicbitch_enemy/obj_basicbitch_enemy.yy",},},
+    {"id":{"name":"obj_boss_bullet","path":"objects/obj_boss_bullet/obj_boss_bullet.yy",},},
+    {"id":{"name":"obj_boss","path":"objects/obj_boss/obj_boss.yy",},},
     {"id":{"name":"obj_enemy_bullet","path":"objects/obj_enemy_bullet/obj_enemy_bullet.yy",},},
     {"id":{"name":"obj_flamingArea","path":"objects/obj_flamingArea/obj_flamingArea.yy",},},
     {"id":{"name":"obj_flying_shooty_enemy","path":"objects/obj_flying_shooty_enemy/obj_flying_shooty_enemy.yy",},},
@@ -45,6 +47,8 @@
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_basic_bitch_enemy","path":"sprites/spr_basic_bitch_enemy/spr_basic_bitch_enemy.yy",},},
+    {"id":{"name":"spr_boss_bullet","path":"sprites/spr_boss_bullet/spr_boss_bullet.yy",},},
+    {"id":{"name":"spr_boss_enemy","path":"sprites/spr_boss_enemy/spr_boss_enemy.yy",},},
     {"id":{"name":"spr_enemy_bullet","path":"sprites/spr_enemy_bullet/spr_enemy_bullet.yy",},},
     {"id":{"name":"spr_flaming","path":"sprites/spr_flaming/spr_flaming.yy",},},
     {"id":{"name":"spr_flying_shooty_enemy","path":"sprites/spr_flying_shooty_enemy/spr_flying_shooty_enemy.yy",},},
