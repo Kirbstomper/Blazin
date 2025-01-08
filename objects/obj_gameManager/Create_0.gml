@@ -2,14 +2,14 @@
  bombs_used = 0; // How much of the room is filled with flames
  flame_damage = 0.01;
  basic_bitch_spawn_time = 50;
- flying_shooty_spawn_time = 15;
+ flying_shooty_spawn_time = 100;
  global.player_in_flames = false;
  global.player_health = 100.00;
- 
+ global.game_score = 0;
  global.debug = true;
 
 alarm[1] = basic_bitch_spawn_time
-
+alarm[2] = basic_bitch_spawn_time + flying_shooty_spawn_time
 #region UseBomb
 function UseBomb(){
 	var fire_size = 32;
