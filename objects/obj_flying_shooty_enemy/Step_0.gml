@@ -10,7 +10,7 @@ if(can_shoot)
 {
 	can_shoot = false;
 	alarm[0] = base_shot_rate;
-	instance_create_layer(x, y,layer,obj_enemy_bullet)
+	instance_create_layer(x, y, layer, obj_enemy_bullet)
 }
 
 

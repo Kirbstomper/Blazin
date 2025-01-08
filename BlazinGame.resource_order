@@ -1,6 +1,7 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
+    {"name":"obj_base_enemy","order":6,"path":"objects/obj_base_enemy/obj_base_enemy.yy",},
     {"name":"obj_basicbitch_enemy","order":3,"path":"objects/obj_basicbitch_enemy/obj_basicbitch_enemy.yy",},
     {"name":"obj_enemy_bullet","order":5,"path":"objects/obj_enemy_bullet/obj_enemy_bullet.yy",},
     {"name":"obj_flying_shooty_enemy","order":4,"path":"objects/obj_flying_shooty_enemy/obj_flying_shooty_enemy.yy",},

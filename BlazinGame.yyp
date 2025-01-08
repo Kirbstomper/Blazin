@@ -34,6 +34,7 @@
   },
   "name":"BlazinGame",
   "resources":[
+    {"id":{"name":"obj_base_enemy","path":"objects/obj_base_enemy/obj_base_enemy.yy",},},
     {"id":{"name":"obj_basicbitch_enemy","path":"objects/obj_basicbitch_enemy/obj_basicbitch_enemy.yy",},},
     {"id":{"name":"obj_enemy_bullet","path":"objects/obj_enemy_bullet/obj_enemy_bullet.yy",},},
     {"id":{"name":"obj_flamingArea","path":"objects/obj_flamingArea/obj_flamingArea.yy",},},
