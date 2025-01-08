@@ -31,6 +31,26 @@ function UseBomb(){
 }
 #endregion
 
-UseBomb();
-UseBomb();
-UseBomb();
+#region IncreaseHeat
+function IncreaseHeat(){
+	if(global.heat_level <11){
+		global.heat_level++;	
+	}
+}
+#endregion
+
+#region DecreaseHeat
+function DecreaseHeat(){
+	if(global.heat_level >1){
+		global.heat_level--;
+	}
+}
+#endregion
+
+
+#region ResetHeat
+function ResetHeat(){
+	global.heat_level = 1;
+}
+#endregion
+

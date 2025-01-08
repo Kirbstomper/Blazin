@@ -1,4 +1,4 @@
-draw_text(100, 100, score)
+draw_text(100, 100, global.game_score)
 
 
 

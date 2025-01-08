@@ -1,0 +1,1 @@
+instance_find(obj_gameManager,0).IncreaseHeat();
