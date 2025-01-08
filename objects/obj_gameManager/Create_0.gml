@@ -1,4 +1,4 @@
- heat_level = 1; // Score Multipler, Scaling Difficulty, Etc
+ global.heat_level = 1; // Score Multipler, Scaling Difficulty, Etc
  bombs_used = 0; // How much of the room is filled with flames
  flame_damage = 0.01;
  
@@ -25,7 +25,7 @@ function UseBomb(){
 			instance_create_layer(room_width -factor, i,id.layer, obj_flamingArea);
 		}
 	
-	
+	global.heat_level = 1;
 	bombs_used++;
 }
 #endregion
