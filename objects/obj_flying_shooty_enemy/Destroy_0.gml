@@ -1,0 +1,1 @@
+global.game_score += base_score_val * global.heat_level
