@@ -2,10 +2,12 @@
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
     {"name":"obj_basicbitch_enemy","order":3,"path":"objects/obj_basicbitch_enemy/obj_basicbitch_enemy.yy",},
+    {"name":"obj_enemy_bullet","order":5,"path":"objects/obj_enemy_bullet/obj_enemy_bullet.yy",},
     {"name":"obj_flying_shooty_enemy","order":4,"path":"objects/obj_flying_shooty_enemy/obj_flying_shooty_enemy.yy",},
     {"name":"obj_player_bullet","order":2,"path":"objects/obj_player_bullet/obj_player_bullet.yy",},
     {"name":"obj_player","order":1,"path":"objects/obj_player/obj_player.yy",},
     {"name":"spr_basic_bitch_enemy","order":4,"path":"sprites/spr_basic_bitch_enemy/spr_basic_bitch_enemy.yy",},
+    {"name":"spr_enemy_bullet","order":6,"path":"sprites/spr_enemy_bullet/spr_enemy_bullet.yy",},
     {"name":"spr_flying_shooty_enemy","order":5,"path":"sprites/spr_flying_shooty_enemy/spr_flying_shooty_enemy.yy",},
     {"name":"spr_player_bullet","order":3,"path":"sprites/spr_player_bullet/spr_player_bullet.yy",},
     {"name":"spr_player_mask","order":1,"path":"sprites/spr_player_mask/spr_player_mask.yy",},
