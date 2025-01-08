@@ -1,3 +1,4 @@
+event_inherited()
 var target = instance_find(obj_player, 0);
 
 if(abs(x - obj_player.x) > 50 && abs(y-obj_player.y) >50){
