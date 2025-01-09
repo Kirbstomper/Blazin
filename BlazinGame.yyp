@@ -57,6 +57,7 @@
     {"id":{"name":"rm_MainMenu","path":"rooms/rm_MainMenu/rm_MainMenu.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"BackGroundBeat","path":"sounds/BackGroundBeat/BackGroundBeat.yy",},},
+    {"id":{"name":"boom","path":"sounds/boom/boom.yy",},},
     {"id":{"name":"OKAY","path":"sounds/OKAY/OKAY.yy",},},
     {"id":{"name":"pew","path":"sounds/pew/pew.yy",},},
     {"id":{"name":"small_enemy_death","path":"sounds/small_enemy_death/small_enemy_death.yy",},},

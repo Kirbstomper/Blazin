@@ -26,7 +26,18 @@ function UseBomb(){
 			instance_create_layer(room_width -factor, i,id.layer, obj_flamingArea);
 		}
 	
-	global.heat_level = 1;
+	
+	//DESTROY ALL ENEMY BULLET
+	with (obj_enemy_bullet)
+	{
+		instance_destroy()
+	}
+	with (obj_boss_bullet)
+	{
+		instance_destroy()
+	}
+	
+	
 	bombs_used++;
 }
 #endregion

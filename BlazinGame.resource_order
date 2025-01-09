@@ -19,6 +19,7 @@
     {"name":"obj_quit_button","order":1,"path":"objects/obj_quit_button/obj_quit_button.yy",},
     {"name":"rm_DeathScreen","order":2,"path":"rooms/rm_DeathScreen/rm_DeathScreen.yy",},
     {"name":"rm_MainMenu","order":1,"path":"rooms/rm_MainMenu/rm_MainMenu.yy",},
+    {"name":"boom","order":4,"path":"sounds/boom/boom.yy",},
     {"name":"OKAY","order":1,"path":"sounds/OKAY/OKAY.yy",},
     {"name":"pew","order":3,"path":"sounds/pew/pew.yy",},
     {"name":"small_enemy_death","order":2,"path":"sounds/small_enemy_death/small_enemy_death.yy",},
