@@ -23,6 +23,7 @@
     {"name":"OKAY","order":1,"path":"sounds/OKAY/OKAY.yy",},
     {"name":"pew","order":3,"path":"sounds/pew/pew.yy",},
     {"name":"small_enemy_death","order":2,"path":"sounds/small_enemy_death/small_enemy_death.yy",},
+    {"name":"Background","order":11,"path":"sprites/Background/Background.yy",},
     {"name":"spr_basic_bitch_enemy","order":4,"path":"sprites/spr_basic_bitch_enemy/spr_basic_bitch_enemy.yy",},
     {"name":"spr_boss_bullet","order":9,"path":"sprites/spr_boss_bullet/spr_boss_bullet.yy",},
     {"name":"spr_boss_enemy","order":7,"path":"sprites/spr_boss_enemy/spr_boss_enemy.yy",},
