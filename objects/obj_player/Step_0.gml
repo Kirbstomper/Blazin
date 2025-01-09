@@ -46,6 +46,7 @@ if ((mouse_check_button_pressed(mb_left) && canShoot == true))
 	{
 		canShoot = false;
 		alarm[0] = 8;
+		audio_play_sound(pew, 0, 0)
 		var inst = instance_create_depth(x, y, -100, obj_player_bullet);
 		
 		with (inst)

@@ -20,6 +20,7 @@
     {"name":"rm_DeathScreen","order":2,"path":"rooms/rm_DeathScreen/rm_DeathScreen.yy",},
     {"name":"rm_MainMenu","order":1,"path":"rooms/rm_MainMenu/rm_MainMenu.yy",},
     {"name":"OKAY","order":1,"path":"sounds/OKAY/OKAY.yy",},
+    {"name":"pew","order":3,"path":"sounds/pew/pew.yy",},
     {"name":"small_enemy_death","order":2,"path":"sounds/small_enemy_death/small_enemy_death.yy",},
     {"name":"spr_basic_bitch_enemy","order":4,"path":"sprites/spr_basic_bitch_enemy/spr_basic_bitch_enemy.yy",},
     {"name":"spr_boss_bullet","order":9,"path":"sprites/spr_boss_bullet/spr_boss_bullet.yy",},
