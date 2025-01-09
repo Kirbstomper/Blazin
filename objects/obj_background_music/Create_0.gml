@@ -1,0 +1,1 @@
+audio_play_sound(BackGroundBeat, 0,1)
