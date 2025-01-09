@@ -4,4 +4,7 @@ with (instance_create_depth(x, y, -100, obj_cooldown_sparkle))
 	{
 		image_speed = 0.5;
 }
+
 canBomb = true;
+
+audio_play_sound(OKAY, 0, 0);
