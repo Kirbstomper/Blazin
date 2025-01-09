@@ -36,6 +36,7 @@
   },
   "name":"BlazinGame",
   "resources":[
+    {"id":{"name":"obj_background_music","path":"objects/obj_background_music/obj_background_music.yy",},},
     {"id":{"name":"obj_base_enemy","path":"objects/obj_base_enemy/obj_base_enemy.yy",},},
     {"id":{"name":"obj_basicbitch_enemy","path":"objects/obj_basicbitch_enemy/obj_basicbitch_enemy.yy",},},
     {"id":{"name":"obj_boss_bullet","path":"objects/obj_boss_bullet/obj_boss_bullet.yy",},},
@@ -54,6 +55,7 @@
     {"id":{"name":"rm_DeathScreen","path":"rooms/rm_DeathScreen/rm_DeathScreen.yy",},},
     {"id":{"name":"rm_MainMenu","path":"rooms/rm_MainMenu/rm_MainMenu.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"BackGroundBeat","path":"sounds/BackGroundBeat/BackGroundBeat.yy",},},
     {"id":{"name":"spr_basic_bitch_enemy","path":"sprites/spr_basic_bitch_enemy/spr_basic_bitch_enemy.yy",},},
     {"id":{"name":"spr_boss_bullet","path":"sprites/spr_boss_bullet/spr_boss_bullet.yy",},},
     {"id":{"name":"spr_boss_enemy","path":"sprites/spr_boss_enemy/spr_boss_enemy.yy",},},
