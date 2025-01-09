@@ -53,4 +53,12 @@ if ((mouse_check_button_pressed(mb_left) && canShoot == true))
 			speed = other.shoot_speed;
 			direction = other.image_angle;
 		}
-}	
+}
+
+
+if ((mouse_check_button_released(mb_right) && canBomb == true))
+	{
+		canBomb = false;
+		alarm[1] = 120;
+		 instance_create_depth(x, y, -100, obj_player_bomb);
+		}

@@ -45,6 +45,7 @@
     {"id":{"name":"obj_flying_shooty_enemy","path":"objects/obj_flying_shooty_enemy/obj_flying_shooty_enemy.yy",},},
     {"id":{"name":"obj_gameManager","path":"objects/obj_gameManager/obj_gameManager.yy",},},
     {"id":{"name":"obj_play_button","path":"objects/obj_play_button/obj_play_button.yy",},},
+    {"id":{"name":"obj_player_bomb","path":"objects/obj_player_bomb/obj_player_bomb.yy",},},
     {"id":{"name":"obj_player_bullet","path":"objects/obj_player_bullet/obj_player_bullet.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_quit_button","path":"objects/obj_quit_button/obj_quit_button.yy",},},
