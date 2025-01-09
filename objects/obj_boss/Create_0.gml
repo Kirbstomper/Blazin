@@ -7,3 +7,7 @@ base_damage = 1;
 attacking = false;
 base_shot_rate=100;
 can_shoot = true;
+
+
+//enemy spawner
+alarm[1] = random_range(120, 1200)

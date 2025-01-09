@@ -15,5 +15,8 @@ while(abs(spawn_y-player.y)<50){
 spawn_y = random_range(0, room_height)
 }
 //then spawn
-instance_create_layer(spawn_x, spawn_y, 0, obj_flying_shooty_enemy)
+if (!instance_exists(obj_boss))
+{
+instance_create_layer(spawn_x, spawn_y, layer, obj_flying_shooty_enemy)
+	}
 

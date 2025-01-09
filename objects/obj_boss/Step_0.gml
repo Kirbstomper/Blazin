@@ -28,3 +28,6 @@ if(can_shoot)
 	var _yy = y + lengthdir_y(64, image_angle);
 	instance_create_layer(_xx, _yy, layer, obj_boss_bullet);
 }
+
+
+//Enemy Spawner
