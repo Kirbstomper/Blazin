@@ -56,6 +56,7 @@
     {"id":{"name":"rm_MainMenu","path":"rooms/rm_MainMenu/rm_MainMenu.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"BackGroundBeat","path":"sounds/BackGroundBeat/BackGroundBeat.yy",},},
+    {"id":{"name":"OKAY","path":"sounds/OKAY/OKAY.yy",},},
     {"id":{"name":"spr_basic_bitch_enemy","path":"sprites/spr_basic_bitch_enemy/spr_basic_bitch_enemy.yy",},},
     {"id":{"name":"spr_boss_bullet","path":"sprites/spr_boss_bullet/spr_boss_bullet.yy",},},
     {"id":{"name":"spr_boss_enemy","path":"sprites/spr_boss_enemy/spr_boss_enemy.yy",},},
