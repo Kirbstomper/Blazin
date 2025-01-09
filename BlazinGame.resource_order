@@ -1,7 +1,7 @@
 {
   "FolderOrderSettings":[
     {"name":"ui","order":7,"path":"folders/Objects/ui.yy",},
-    {"name":"ui","order":7,"path":"folders/Sprites/ui.yy",},
+    {"name":"ui","order":8,"path":"folders/Sprites/ui.yy",},
   ],
   "ResourceOrderSettings":[
     {"name":"obj_base_enemy","order":6,"path":"objects/obj_base_enemy/obj_base_enemy.yy",},
@@ -17,10 +17,11 @@
     {"name":"rm_DeathScreen","order":2,"path":"rooms/rm_DeathScreen/rm_DeathScreen.yy",},
     {"name":"rm_MainMenu","order":1,"path":"rooms/rm_MainMenu/rm_MainMenu.yy",},
     {"name":"spr_basic_bitch_enemy","order":4,"path":"sprites/spr_basic_bitch_enemy/spr_basic_bitch_enemy.yy",},
-    {"name":"spr_boss_bullet","order":8,"path":"sprites/spr_boss_bullet/spr_boss_bullet.yy",},
+    {"name":"spr_boss_bullet","order":9,"path":"sprites/spr_boss_bullet/spr_boss_bullet.yy",},
     {"name":"spr_boss_enemy","order":7,"path":"sprites/spr_boss_enemy/spr_boss_enemy.yy",},
     {"name":"spr_enemy_bullet","order":6,"path":"sprites/spr_enemy_bullet/spr_enemy_bullet.yy",},
-    {"name":"spr_explosion","order":9,"path":"sprites/spr_explosion/spr_explosion.yy",},
+    {"name":"spr_explosion","order":10,"path":"sprites/spr_explosion/spr_explosion.yy",},
+    {"name":"spr_flaming","order":11,"path":"sprites/spr_flaming/spr_flaming.yy",},
     {"name":"spr_flying_shooty_enemy","order":5,"path":"sprites/spr_flying_shooty_enemy/spr_flying_shooty_enemy.yy",},
     {"name":"spr_play_button","order":1,"path":"sprites/spr_play_button/spr_play_button.yy",},
     {"name":"spr_player_bullet","order":3,"path":"sprites/spr_player_bullet/spr_player_bullet.yy",},

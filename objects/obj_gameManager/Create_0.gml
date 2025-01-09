@@ -54,3 +54,4 @@ function ResetHeat(){
 }
 #endregion
 
+UseBomb()
