@@ -60,5 +60,6 @@ if ((mouse_check_button_released(mb_right) && canBomb == true))
 	{
 		canBomb = false;
 		alarm[1] = 120;
+		 instance_find(obj_gameManager, 0).UseBomb();
 		 instance_create_depth(x, y, -100, obj_player_bomb);
 		}
