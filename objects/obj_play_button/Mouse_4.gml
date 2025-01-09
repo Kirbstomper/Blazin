@@ -1,3 +1,3 @@
 if(position_meeting(mouse_x, mouse_y, id)){
-	room_goto(Room1);
+	room_goto(Room1)
 }
